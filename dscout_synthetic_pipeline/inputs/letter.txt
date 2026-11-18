@@ -1,0 +1,35 @@
+SYNTHETIC CUSTOMER COMMUNICATION — RESEARCH ONLY — NOT A REAL NATIONWIDE LETTER
+Fictional customer: Alex Morgan | Reference: TEST-INCOMING-00482 | 16 November 2026
+
+PAGE 1 OF 2
+Subject: Please check the details used for payments into your account
+
+Dear Alex,
+
+We are writing because the account details used by some people who send money to you may need updating. If you expect to receive payments from someone else, please check the details that the sender is using. If they are incorrect or out of date, contact that sender directly and give them the correct details shown on page 2.
+
+You can compare the details currently used for an incoming payment with the correct account details listed on page 2. You do not need to make a payment to Nationwide. Never share your PIN, password, or one-time security codes.
+
+If you are expecting money from Mr & Mrs Johnson, please contact them and ask them to update the sort code and account number they use for future payments. Check the recipient name as well. If the sender already has the correct details, no change is needed.
+
+This is a fictional research communication and does not require any real-world action.
+
+--- PAGE BREAK ---
+PAGE 2 OF 2
+Summary of the payment(s)
+Sender: Mr & Mrs Johnson
+Payment type: Regular incoming transfer
+Recipient name currently held by sender: Alex Morgan
+Sort code currently held by sender: 07-11-22
+Account number currently held by sender: 12345670
+Payment reference currently used: JOHNSON-RENT
+
+The correct account details
+Recipient name: Alex Morgan
+Sort code: 07-11-23
+Account number: 87654321
+Payment reference: JOHNSON-RENT
+
+What to do: Compare the two sections. The sender currently has an outdated sort code and account number. Ask Mr & Mrs Johnson to update the two numbers to the correct details listed above. The payment reference remains unchanged. Use these fictional details only when responding to this research study.
+
+RESEARCH-ONLY NOTICE: All account details above are fabricated and must not be used for real banking.

@@ -1,0 +1,31 @@
+{
+  "source": "questions.docx (supplied by user)",
+  "questions": [
+    {
+      "id": "Q1",
+      "title": "Read and interpret letter",
+      "instructions": "Please take a moment to read the 2-page letter. You can zoom in/out to adjust the font size to the level you’re comfortable with. Once you’ve finished, we’d like you to talk out loud and tell us:",
+      "prompts": [
+        "What you understand from the letter (provide as much detail as possible)",
+        "What, if anything, the letter asks you to do and why",
+        "What, if anything, you found confusing or unclear"
+      ]
+    },
+    {
+      "id": "Q2",
+      "title": "Correct incoming payment",
+      "instructions": "We’d like you to imagine you are correcting one of the payments and would like to find the right details to use. (This is a test of the letter, not you)",
+      "prompts": [
+        "Imagine you want to continue receiving the payment from Mr & Mrs Johnson. Please talk out loud about what you would do and what information you would use."
+      ]
+    },
+    {
+      "id": "Q3",
+      "title": "Compare the sections on page 2",
+      "instructions": "Please look at page 2 of the letter.",
+      "prompts": [
+        "What is the difference between the information under “Summary of the payment(s)” and the information under “The correct account details”?"
+      ]
+    }
+  ]
+}

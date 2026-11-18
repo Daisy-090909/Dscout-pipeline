@@ -1,0 +1,19 @@
+# OpenAI API keys
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Generated research outputs
+outputs/
+
+# IDE settings
+.vscode/
+.idea/

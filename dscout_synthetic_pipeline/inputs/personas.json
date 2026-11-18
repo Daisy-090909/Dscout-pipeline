@@ -1,0 +1,110 @@
+{
+  "source": "persona.docx (supplied by user)",
+  "participants": [
+    {
+      "id": "P01",
+      "base_persona": "28, digitally confident, good financial knowledge, regularly uses mobile banking",
+      "speaking_style": "Concise, direct, confident",
+      "voice": "alloy",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P02",
+      "base_persona": "35, good general financial knowledge, comfortable reading bank communications",
+      "speaking_style": "Friendly, conversational, medium-length answers",
+      "voice": "ash",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P03",
+      "base_persona": "46, average financial knowledge, prefers straightforward explanations",
+      "speaking_style": "Thoughtful, sometimes pauses before answering",
+      "voice": "ballad",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P04",
+      "base_persona": "31, digitally confident, average financial knowledge",
+      "speaking_style": "Informal, brief, uses everyday language",
+      "voice": "coral",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P05",
+      "base_persona": "52, experienced with banking products, relatively financially confident",
+      "speaking_style": "Detailed, methodical, explains reasoning",
+      "voice": "echo",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P06",
+      "base_persona": "41, average financial knowledge and digital confidence",
+      "speaking_style": "Conversational, occasionally self-corrects",
+      "voice": "fable",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P07",
+      "base_persona": "26, strong digital confidence but only moderate financial knowledge",
+      "speaking_style": "Short, casual answers",
+      "voice": "nova",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P08",
+      "base_persona": "59, comfortable with everyday banking but less familiar with technical terminology",
+      "speaking_style": "Measured, medium-length responses",
+      "voice": "onyx",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P09",
+      "base_persona": "44, average financial knowledge, reads communications carefully",
+      "speaking_style": "Considered, slightly cautious",
+      "voice": "sage",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P10",
+      "base_persona": "37, good financial and digital confidence",
+      "speaking_style": "Direct but sometimes gives detailed opinions",
+      "voice": "shimmer",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P11",
+      "base_persona": "39, dyslexic, moderate financial knowledge, good digital confidence",
+      "speaking_style": "Conversational; may reread dense written information",
+      "voice": "verse",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P12",
+      "base_persona": "55, low financial confidence, comfortable with everyday banking but unfamiliar with specialist terminology",
+      "speaking_style": "Cautious, regularly qualifies answers when unsure",
+      "voice": "marin",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P13",
+      "base_persona": "48, average financial knowledge and digital confidence",
+      "speaking_style": "Thoughtful, confident enough to state a different interpretation",
+      "voice": "cedar",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P14",
+      "base_persona": "33, above-average digital confidence, average financial knowledge",
+      "speaking_style": "Direct, conversational",
+      "voice": "alloy",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    },
+    {
+      "id": "P15",
+      "base_persona": "45, good financial and digital knowledge",
+      "speaking_style": "Articulate, confident, medium-length answers",
+      "voice": "echo",
+      "voice_instructions": "Speak in a natural British English conversational style, with realistic pacing. Do not add any words or change the meaning."
+    }
+  ]
+}
